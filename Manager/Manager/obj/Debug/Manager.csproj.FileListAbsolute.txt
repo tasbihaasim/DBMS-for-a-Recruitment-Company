@@ -1,0 +1,42 @@
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.Form1.resources
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Naeem Ilyas\source\repos\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\TASBIHA\source\repos\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\TASBIHA\source\repos\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\TASBIHA\source\repos\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Performance.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Action.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.compare.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.pdb
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Form4.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Form5.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Form6.resources
+C:\Users\TASBIHA\source\repos\Manager\Manager\obj\Debug\Manager.Form7.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Performance.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Action.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.compare.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Form4.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Form5.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Form6.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Form7.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\bin\Debug\Manager.exe.config
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\bin\Debug\Manager.exe
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.exe
+C:\Users\Administrator\Desktop\final db proj\Manager\Manager\obj\Debug\Manager.pdb
